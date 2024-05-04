@@ -1,3 +1,9 @@
+Sample Micronaut Application to test native graalvm image on render.com
+Available endpoints:
+/hello - restendpoint
+/hello/{name} - HTML endpoint with path param
+
+
 ## Micronaut 4.4.2 Documentation
 
 - [User Guide](https://docs.micronaut.io/4.4.2/guide/index.html)
